@@ -1,5 +1,5 @@
 # rgb-count
-Counts RGBA pixels in a bitmap using front-back linear search as well as checking the previous pixel
+Counts RGBA pixels in a bitmap using front-back linear search as well as checking the previous pixel.
 
 This was a student project for advanced computer architecture. 
 The purpose of this program was to search a bitmap and count the number of pixels that match a set of colors (64 entries).
