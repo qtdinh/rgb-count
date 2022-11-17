@@ -6,4 +6,4 @@ The purpose of this program was to search a bitmap and count the number of pixel
 
 My solution used a front and back linear search along with comparing the pixel to the previous one. 
 This is not the most optimal solution, but at the time I wasn't well-versed with data structures.
-Other solutions include using a hashmap or a binary search.
+Other better solutions include using a hashmap or a binary search.
