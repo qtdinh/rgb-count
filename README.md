@@ -1,5 +1,5 @@
 # rgb-count
-Counts RGBA pixels in a bitmap using front-back linear search as well as checking the previous pixel.
+Counts RGBA pixels in a bitmap using front-back linear search as well as comparing the previous pixel to the current one.
 
 ## Description
 
